@@ -34,6 +34,8 @@ Gym app that gives the gym the following features:
 
 
 ## needs
-  - good trainer to create programs
-  - good analist for something
-  - 
+  - trainer to create programs
+    - Need a trainer who can do many programs and different styles 
+  - analyst for creating possible ML models to create programs for users
+     - This could be another paid sub 
+     - good metric analysis and dashboard for progress
