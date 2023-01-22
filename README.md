@@ -39,3 +39,14 @@ Gym app that gives the gym the following features:
   - analyst for creating possible ML models to create programs for users
      - This could be another paid sub 
      - good metric analysis and dashboard for progress
+     
+## Technolgies
+- db 
+  - Postgres
+- app lang
+  - python
+-infra
+  - aws
+  - terraform
+    - will allow us to easily spin up infra for new gyms, with minimal effort
+  - kubernetes
